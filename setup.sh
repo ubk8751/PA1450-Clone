@@ -52,7 +52,7 @@ sudo VBoxClient --clipboard
 echo "===== Installing Development Dependencies ====="
 
 # Install Python 3.8 and related dependencies
-install python3.8 python3-pil python3-pip python3.8-dev
+install python3.8 python3-pil python3-pip python3.8-dev python3.8-venv
 
 echo "Installing Python packages"
 python3.8 -m pip install numpy matplotlib pandas plotly psutil pillow > /dev/null

@@ -9,3 +9,5 @@ You're currently viewing the branch `virtual-lab-environment`. This branch conta
 If you've been given a ready-to-use virtual machine image, you will not need this branch.
 
 If you, however, intend to set up the virtual machine from scratch, you're in the right place. You may start by reading through the file called `virtual-machine-setup.md`.
+
+The username and password for the machine is `pa1450`.
